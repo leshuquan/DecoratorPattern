@@ -1,0 +1,21 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupConfiguration="{CDA3ACC0-FC32-47FD-858A-1A8C5856AEFC}|Default">
+  <MonoDevelop.Ide.ItemProperties.DecoratorPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecoratorPattern/CondimentDecorator.cs">
+    <Files>
+      <File FileName="DecoratorPattern/Program.cs" Line="13" Column="18" />
+      <File FileName="DecoratorPattern/Soy.cs" Line="15" Column="3" />
+      <File FileName="DecoratorPattern/DarkRoast.cs" Line="19" Column="30" />
+      <File FileName="DecoratorPattern/Beverage.cs" Line="12" Column="3" />
+      <File FileName="DecoratorPattern/Espresso.cs" Line="11" Column="4" />
+      <File FileName="DecoratorPattern/HouseBlend.cs" Line="8" Column="3" />
+      <File FileName="DecoratorPattern/Mocha.cs" Line="29" Column="20" />
+      <File FileName="DecoratorPattern/CondimentDecorator.cs" Line="4" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
